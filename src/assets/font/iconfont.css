@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2528770 */
+  src: url('iconfont.woff2?t=1620282795610') format('woff2'),
+       url('iconfont.woff?t=1620282795610') format('woff'),
+       url('iconfont.ttf?t=1620282795610') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-usericon:before {
+  content: "\e632";
+}
+
+.icon-showpassword:before {
+  content: "\e615";
+}
+
+.icon-user_icon:before {
+  content: "\e609";
+}
+
+.icon-user-icon:before {
+  content: "\e60a";
+}
+
+.icon-lock:before {
+  content: "\e612";
+}
+
+.icon-box:before {
+  content: "\e691";
+}
+
+.icon-danju:before {
+  content: "\e739";
+}
+
+.icon-bianzu1:before {
+  content: "\e601";
+}
+
+.icon-PortalReport:before {
+  content: "\e61a";
+}
+
+.icon-Bag2:before {
+  content: "\e629";
+}
+
